@@ -31,6 +31,7 @@ export default class Plans extends Component {
             return (
                 <Col xs={12} sm={4} md={4}>
                     <Well>
+                        <h3>Welcome to Best For You Organics Company</h3>
                         <div class="plan-wrapper">
                             <div class="plan">
                                 <div class="name">{plan.friendlyName}</div>
